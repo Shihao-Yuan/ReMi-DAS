@@ -22,10 +22,9 @@ This package is developed using core functionality from the [**DASCore**](https:
 ### 📂 Project Structure
 
 ```bash
-DAS_ReMi/
+ReMi-DAS/
 ├── notebooks/        # Jupyter demonstration notebooks
-├── LICENSE           # MIT License
+├── LICENSE           # GPL-3.0 License
 ├── README.md         # Project description and usage
-├── requirements.txt  # Python dependencies
-└── setup.py          # Packaging config
+└── requirements.txt  # Python dependencies
 
