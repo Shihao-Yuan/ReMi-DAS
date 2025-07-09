@@ -19,12 +19,9 @@ This package is developed using core functionality from the [**DASCore**](https:
 
 ---
 
-### 📂 Project Structure
+### References
 
-```bash
-ReMi-DAS/
-├── notebooks/        # Jupyter demonstration notebooks
-├── LICENSE           # GPL-3.0 License
-├── README.md         # Project description and usage
-└── requirements.txt  # Python dependencies
+- McMechan, G.A. and Yedlin, M.J., 1981. Analysis of dispersive waves by wave field transformation. *Geophysics*, 46(6), pp.869-874.  
+- Louie, J.N., 2001. Faster, better: shear-wave velocity to 100 meters depth from refraction microtremor arrays. *BSSA*, 91(2), pp.347-364. 
+- Chambers, D., Jin, G., Tourei, A., Issah, A.H.S., Lellouch, A., Martin, E.R., Zhu, D., Girard, A.J., Yuan, S., Cullison, T. and Snyder, T., 2024. Dascore: A python library for distributed fiber optic sensing. *Seismica*, 3(2), pp.10-26443.
 
