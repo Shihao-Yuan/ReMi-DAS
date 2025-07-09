@@ -1,7 +1,7 @@
 # **ReMi-DAS**  
 **Refraction Microtremor Processing for Distributed Acoustic Sensing Data**
 
-**DAS-ReMi** is an open-source toolkit for applying Refraction Microtremor (ReMi) analysis to Distributed Acoustic Sensing (DAS) data.  
+**ReMi-DAS** is an open-source toolkit for applying Refraction Microtremor (ReMi) analysis to Distributed Acoustic Sensing (DAS) data.  
 It extends conventional ReMi workflows to accommodate strain/strain-rate measurements from DAS arrays, enabling efficient and scalable shear-wave velocity (Vs) profiling—particularly in urban or infrastructure-constrained environments.
 
 This package is developed using core functionality from the [**DASCore**](https://github.com/DASDAE/dascore/tree/master) project — a flexible Python library for reading, processing, and visualizing DAS data.
